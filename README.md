@@ -2,7 +2,14 @@
 
 **`Software Engineer (Developer/Linuxuser/Software Explorer)`**
 
-Software engineer with 2.3 years of experience. Proficient in Angular, Typescript, JavaScript, HTML, CSS, SQL, Unix, and Java. Committed to delivering high-quality software solutions and optimizing system performance. Seeking a challenging role to contribute to cutting-edge software system development and innovation.
+- 🚀 As a Software Engineer, I've honed my skills in crafting top-notch software solutions, optimizing performance, and squashing pesky bugs.
+- 🐧 Embracing my love for Linux and FOSS (Free and Open-Source Software), I proudly rock Arch with the awesome Qtile WM, exploring endless possibilities. 😎🐧
+- 🎮 Gaming is not just a hobby, but also a fun-filled learning adventure for me. It's where entertainment meets enlightenment! 🕹️🎯
+- 🌱 Always hungry for growth, I keep myself up to date with emerging technologies and industry trends, ready to make a positive impact in the vast tech world. 💡💪
+
+Remember, the journey is all about continuous learning, exploration, and making a difference! Let's keep coding and leveling up together! 👨‍💻🚀
+
+*Note : Interested in Opecsource Development not sure where to Start*
 
 ---
 
@@ -42,32 +49,20 @@ Software engineer with 2.3 years of experience. Proficient in Angular, Typescrip
 
 #
 
-
-#
-
 <details>
  <summary><h3>👨‍💻 Anurag's Coding Journey</h3></summary>
-Developed Angular -based web application modules with HTML, CSS & API calls to optimize data retrieval, increasing performance by 40%. 
-Analyzed existing code-base for potential issues, leading to the successful resolution of 50+ bugs in less than 4 weeks. 
-Optimized code-base for improved performance, increasing efficiency across 200+ end-users. 
-Streamlined processes by programming UNIX Shell Scripts for ETL development with Informatica and job scheduling with Control-M.
-Created Snowflake tables and views, developed a data migration solution to transfer data to MongoDB by creating a specialized job using the Python script to expedite time-to-market goals. 
-Developed strong relationships with clients, resulting in enhanced customer satisfaction. 
-Contributed to a program that reduced customer costs by 35% and improved service delivery speed by 30% with the Cisco Refresh Central Team.
-Developed a dynamic web application prototype using Angular, leveraging training in IT fundamentals and Mean Stack technologies during a three-month internship.
- Utilized HTML and CSS to create a separate project, showcasing expertise in front-end development and design principles, including the seamless integration of colors and thoughtful topology design.
+My coding journey began with my pursuit of a Bachelor's degree in Computer Science, which provided me with a solid foundation in the field. During my studies, I gained knowledge of various programming languages and technologies, preparing me for the challenges ahead. 💻🎓
 
-<!--
-**Shadow-Monarch98/Shadow-Monarch98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+After completing my degree, I was fortunate to land an internship at Tech Mahindra. It was an incredible opportunity to apply my theoretical knowledge to real-world projects. During my internship, I worked on developing a dynamic web application prototype using Angular. It was an exciting experience to see my work come to life and showcase my skills in front-end development using HTML and CSS. 🌐🖌️
 
-Here are some ideas to get you started:
+Following the internship, I transitioned into a full-time role as a Software Engineer at Tech Mahindra. This was the turning point where I truly started to grow and excel in my career. As a Software Engineer, I was responsible for developing high-quality software solutions using a variety of technologies and programming languages. I collaborated closely with cross-functional teams, translating complex business requirements into precise technical specifications within an Agile Scrum environment. 🚀💡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+One of my proudest achievements during this time was developing Angular-based web application modules that optimized data retrieval. Through the use of HTML, CSS, and API calls, I was able to significantly improve performance by 40%. It was an exhilarating experience to witness the impact of my work on the overall efficiency of the system. ⚡📈
+
+Another significant milestone was my contribution to bug fixing and optimization. I meticulously conducted comprehensive code reviews, which led to the successful resolution of over 50 bugs in less than 4 weeks. Moreover, I took the initiative to optimize the codebase, resulting in increased efficiency for more than 200 end-users. It was gratifying to witness the positive impact of my efforts on the system's performance. 🐛👨‍💻
+
+Beyond software development, I also had the opportunity to work on streamlining processes. I programmed UNIX Shell Scripts for ETL development using Informatica and job scheduling with Control-M, which greatly enhanced the efficiency of data processing. Additionally, I utilized my Python scripting skills to develop a specialized job that facilitated data migration to MongoDB, expediting time-to-market goals. 🐚🐍
+
+Throughout my journey, I not only focused on technical excellence but also prioritized building strong relationships with clients. By establishing trust and understanding their needs, I contributed to enhanced customer satisfaction. Furthermore, I actively participated in a program with the Cisco Refresh Central Team, which resulted in a significant reduction in customer costs and improved service delivery speed. It was incredibly fulfilling to witness the positive impact of my contributions on both the business and the customers. 🤝😊
+
+As I continue on my coding journey, I remain eager to learn and grow. I am committed to staying updated with emerging technologies, industry trends, and best practices to drive continuous improvement in my work. With each new challenge, I am excited to embrace the opportunities ahead and make a meaningful impact in the tech industry. 💪🌟
