@@ -9,7 +9,7 @@
 
 Remember, the journey is all about continuous learning, exploration, and making a difference! Let's keep coding and leveling up together! 👨‍💻🚀
 
-*Note : Interested in Opecsource Development not sure where to Start*
+*Note : Interested in Opensource Development not sure where to Start*
 
 ---
 
