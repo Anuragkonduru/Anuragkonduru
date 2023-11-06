@@ -43,7 +43,7 @@ Remember, the journey is all about continuous learning, exploration, and making 
 
 ### 📊 Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadow-monarch98&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anuragkonduru&show_icons=true&theme=tokyonight)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=&theme=gruvbox&border_radius=4.5) -->
 
