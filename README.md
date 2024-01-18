@@ -7,10 +7,6 @@
 - 🎮 Gaming is not just a hobby, but also a fun-filled learning adventure for me. It's where entertainment meets enlightenment! 🕹️🎯
 - 🌱 Always hungry for growth, I keep myself up to date with emerging technologies and industry trends, ready to make a positive impact in the vast tech world. 💡💪
 
-Remember, the journey is all about continuous learning, exploration, and making a difference! Let's keep coding and leveling up together! 👨‍💻🚀
-
-*Note : Interested in Opensource Development not sure where to Start*
-
 ---
 
 ### 🧰 Languages and Tools
