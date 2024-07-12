@@ -6,7 +6,7 @@
 - 🐧 Embracing my love for Linux and FOSS (Free and Open-Source Software), I proudly rock Arch with the awesome Qtile WM, exploring endless possibilities. 😎🐧
 - 🎮 Gaming is not just a hobby, but also a fun-filled learning adventure for me. It's where entertainment meets enlightenment! 🕹️🎯
 - 🌱 Always hungry for growth, I keep myself up to date with emerging technologies and industry trends, ready to make a positive impact in the vast tech world. 💡💪
-
+- [Personal Resume](https://github.com/Anuragkonduru/Anuragkonduru/blob/main/resume.md).
 ---
 
 ### 🧰 Languages and Tools
