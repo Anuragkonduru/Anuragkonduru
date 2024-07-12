@@ -1,12 +1,19 @@
 # Anurag Konduru
 konduruanurag@gmail.com | Hyderabad India.
+
 *Links:* | [Portfolio](https://anuragkonduru.com) | [GitHub](https://github.com/AnuragKonduru) | [linkedIn](https://linkedin.com/anurag-konduru) | [blog](https://blog.anuragkonduru.com)
+
 ### Skills
 *Front-End:* Angular, Typescript, JavaScript, HTML, CSS, ReactJS, Tailwind CSS, Bootstrap, RxJS. 
+
 *Back-End:* PL/SQL, SQL, MongoDB, Snowflake, Node.js, REST API. 
+
 *Coding Languages:* Unix/Linux bash, C, C++, Java, Python, Markdown. 
+
 *CICD & Collaboration:* Git, Jenkins, Jira, Rally, Bitbucket, AWS Cloud. 
+
 *Others:* Informatica, Control-M, Data Structures and Algorithms, VS Code, Eclipse. 
+
 *Languages:* Native Telugu, Fluent in English, and Hindi. 
 
 ### Projects
