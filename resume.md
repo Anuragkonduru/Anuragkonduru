@@ -19,7 +19,7 @@ konduruanurag@gmail.com | Hyderabad India.
 ### Projects
 *For Fun? :*
 - [Task Manager](https://taskmanager-init.netlify.app) - Just cause Every One said i have to. 
-- [Portfolio](https://anuragkonduru.com/) - because it is needed and i wanted to learn the basics o we (React , Tailwind CSS) Outside of Work. 
+- [Portfolio](https://anuragkonduru.com/) - because it is needed and i wanted to learn the basics of web (React , Tailwind CSS) Outside of Work. 
 - [Blog](https://blog.anuragkonduru.com/) - To see if i can write and to better understand concepts or to post things i learn from other sources.  
 - ECdelivery - To see if i can write from scratch a front end thing. 
 - [Weather App](https://counter-weather.netlify.app/) and [Simple Grid](https://sample-layout-grid.netlify.app/) -  Cause an Interview asked for the interview process (was fun). 
