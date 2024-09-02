@@ -1,49 +1,10 @@
-# Anurag Konduru
+# 💫 About Me:
 
-**`Software Engineer (Developer/Linuxuser/Software Explorer)`**
+# Anurag Konduru<br><br>**`Software Engineer (Developer/Linux User/Software Explorer)`**<br><br>- 🚀 As a Software Engineer, I've honed my skills in crafting top-notch software solutions, optimizing performance, and squashing pesky bugs.<br>- 🐧 Embracing my love for Linux and FOSS (Free and Open-Source Software), I proudly rock Arch with the awesome Qtile WM, exploring endless possibilities. 😎🐧<br>- 🎮 Gaming is not just a hobby, but also a fun-filled learning adventure for me. It's where entertainment meets enlightenment! 🕹️🎯<br>- 🌱 Always hungry for growth, I keep myself up to date with emerging technologies and industry trends, ready to make a positive impact in the vast tech world. 💡💪<br>- [Personal Resume](https://github.com/Anuragkonduru/Anuragkonduru/blob/main/resume.md).<br>---
 
-- 🚀 As a Software Engineer, I've honed my skills in crafting top-notch software solutions, optimizing performance, and squashing pesky bugs.
-- 🐧 Embracing my love for Linux and FOSS (Free and Open-Source Software), I proudly rock Arch with the awesome Qtile WM, exploring endless possibilities. 😎🐧
-- 🎮 Gaming is not just a hobby, but also a fun-filled learning adventure for me. It's where entertainment meets enlightenment! 🕹️🎯
-- 🌱 Always hungry for growth, I keep myself up to date with emerging technologies and industry trends, ready to make a positive impact in the vast tech world. 💡💪
-- [Personal Resume](https://github.com/Anuragkonduru/Anuragkonduru/blob/main/resume.md).
----
+# 💻 Tech Stack:
 
-### 🧰 Languages and Tools
-
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
-
-<br />
-<br />
-
-#
-
-### 📊 Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anuragkonduru&show_icons=true&theme=tokyonight)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=&theme=gruvbox&border_radius=4.5) -->
-
-#
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <details>
  <summary><h3>👨‍💻 Anurag's Coding Journey</h3></summary>
@@ -62,3 +23,13 @@ Beyond software development, I also had the opportunity to work on streamlining 
 Throughout my journey, I not only focused on technical excellence but also prioritized building strong relationships with clients. By establishing trust and understanding their needs, I contributed to enhanced customer satisfaction. Furthermore, I actively participated in a program with the Cisco Refresh Central Team, which resulted in a significant reduction in customer costs and improved service delivery speed. It was incredibly fulfilling to witness the positive impact of my contributions on both the business and the customers. 🤝😊
 
 As I continue on my coding journey, I remain eager to learn and grow. I am committed to staying updated with emerging technologies, industry trends, and best practices to drive continuous improvement in my work. With each new challenge, I am excited to embrace the opportunities ahead and make a meaningful impact in the tech industry. 💪🌟
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=AnuragKonduru&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AnuragKonduru&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragKonduru&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=AnuragKonduru&limit=5&theme=dark&combine_all_yearly_contributions=true)
