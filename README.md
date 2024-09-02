@@ -1,6 +1,6 @@
-# 💫 About Me:
-
-# Anurag Konduru<br><br>**`Software Engineer (Developer/Linux User/Software Explorer)`**<br><br>- 🚀 As a Software Engineer, I've honed my skills in crafting top-notch software solutions, optimizing performance, and squashing pesky bugs.<br>- 🐧 Embracing my love for Linux and FOSS (Free and Open-Source Software), I proudly rock Arch with the awesome Qtile WM, exploring endless possibilities. 😎🐧<br>- 🎮 Gaming is not just a hobby, but also a fun-filled learning adventure for me. It's where entertainment meets enlightenment! 🕹️🎯<br>- 🌱 Always hungry for growth, I keep myself up to date with emerging technologies and industry trends, ready to make a positive impact in the vast tech world. 💡💪<br>- [Personal Resume](https://github.com/Anuragkonduru/Anuragkonduru/blob/main/resume.md).<br>---
+# Anurag Konduru
+<br>**`Software Engineer (Developer/Linux User/Software Explorer)`**<br><br>- 🚀 As a Software Engineer, I've honed my skills in crafting top-notch software solutions, optimizing performance, and squashing pesky bugs.<br>- 🐧 Embracing my love for Linux and FOSS (Free and Open-Source Software), I proudly rock Arch with the awesome Qtile WM, exploring endless possibilities. 😎🐧<br>- 🎮 Gaming is not just a hobby, but also a fun-filled learning adventure for me. It's where entertainment meets enlightenment! 🕹️🎯<br>- 🌱 Always hungry for growth, I keep myself up to date with emerging technologies and industry trends, ready to make a positive impact in the vast tech world. 💡💪<br>- [Personal Resume](https://github.com/Anuragkonduru/Anuragkonduru/blob/main/resume.md).<br>
+---
 
 # 💻 Tech Stack:
 
