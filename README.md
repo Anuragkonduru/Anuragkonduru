@@ -23,7 +23,7 @@ Beyond software development, I also had the opportunity to work on streamlining 
 Throughout my journey, I not only focused on technical excellence but also prioritized building strong relationships with clients. By establishing trust and understanding their needs, I contributed to enhanced customer satisfaction. Furthermore, I actively participated in a program with the Cisco Refresh Central Team, which resulted in a significant reduction in customer costs and improved service delivery speed. It was incredibly fulfilling to witness the positive impact of my contributions on both the business and the customers. 🤝😊
 
 As I continue on my coding journey, I remain eager to learn and grow. I am committed to staying updated with emerging technologies, industry trends, and best practices to drive continuous improvement in my work. With each new challenge, I am excited to embrace the opportunities ahead and make a meaningful impact in the tech industry. 💪🌟
-
+</details>
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=AnuragKonduru&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
