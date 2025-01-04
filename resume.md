@@ -1,7 +1,7 @@
 # Anurag Konduru
 konduruanurag@gmail.com | Hyderabad India.
 
-*Links:* | [Portfolio](https://anuragkonduru.com) | [GitHub](https://github.com/AnuragKonduru) | [linkedIn](https://linkedin.com/anurag-konduru) | [blog](https://blog.anuragkonduru.com)
+*Links:* | [Portfolio](https://anuragkonduru.netlify.app/) | [GitHub](https://github.com/AnuragKonduru) | [linkedIn](https://linkedin.com/anurag-konduru) | [blog](https://blog.anuragkonduru.com)
 
 ### Skills
 *Front-End:* Angular, Typescript, JavaScript, HTML, CSS, ReactJS, Tailwind CSS, Bootstrap, RxJS. 
